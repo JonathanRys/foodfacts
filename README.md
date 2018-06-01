@@ -1,2 +1,2 @@
 # foodfacts
-Data about ingredients in food
+Program to extract ingredient lists from food products for NLP
